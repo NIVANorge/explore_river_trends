@@ -1,0 +1,97 @@
+station,parameter,units,method,trend,p_value,slope_tonnes-per-year,intercept,pct_change
+BUSEDRA,TOTN,tonnes,EGRET_FN_TOTN_tonn,decreasing,0.022135,-10.6,26634.4,-6.6
+BUSEDRA,TOTN,tonnes,EGRET_TOTN_tonn,increasing,0.010149,48.5,-91972.3,36.9
+BUSEDRA,TOTN,tonnes,GAM_TOTN_tonn,increasing,0.028741,43.3,-81648.1,32.1
+BUSEDRA,TOTN,tonnes,OSPAR_TOTN_tonn,increasing,0.013472,48.9,-93486.3,43.8
+BUSEDRA,NO3-N,tonnes,EGRET_FN_NO3-N_tonn,decreasing,0.03412,-4.0,11288.0,-4.1
+BUSEDRA,NO3-N,tonnes,EGRET_NO3-N_tonn,increasing,0.01238,26.9,-50688.1,32.7
+BUSEDRA,NO3-N,tonnes,GAM_NO3-N_tonn,no trend,0.111709,20.1,-37080.5,23.1
+BUSEDRA,NO3-N,tonnes,OSPAR_NO3-N_tonn,increasing,0.01058,24.8,-46964.2,36.5
+BUSEDRA,TOTP,tonnes,EGRET_FN_TOTP_tonn,increasing,0.006005,0.4,-800.4,19.4
+BUSEDRA,TOTP,tonnes,EGRET_TOTP_tonn,increasing,0.004819,1.5,-2854.9,98.3
+BUSEDRA,TOTP,tonnes,GAM_TOTP_tonn,increasing,0.028178,1.0,-1900.2,59.0
+BUSEDRA,TOTP,tonnes,OSPAR_TOTP_tonn,increasing,0.003238,1.5,-2936.5,133.7
+BUSEDRA,PO4-P,tonnes,EGRET_FN_PO4-P_tonn,increasing,0.0,0.6,-1258.7,106.2
+BUSEDRA,PO4-P,tonnes,EGRET_PO4-P_tonn,increasing,1e-05,0.9,-1837.0,207.2
+BUSEDRA,PO4-P,tonnes,GAM_PO4-P_tonn,increasing,5.8e-05,0.7,-1403.5,135.2
+BUSEDRA,PO4-P,tonnes,OSPAR_PO4-P_tonn,increasing,0.000935,0.9,-1849.6,410.3
+BUSEDRA,TOC,tonnes,EGRET_FN_TOC_tonn,increasing,0.0,169.2,-297180.8,14.0
+BUSEDRA,TOC,tonnes,EGRET_TOC_tonn,increasing,0.000898,627.3,-1217700.0,66.3
+BUSEDRA,TOC,tonnes,GAM_TOC_tonn,increasing,0.000651,632.5,-1228616.0,67.9
+BUSEDRA,TOC,tonnes,OSPAR_TOC_tonn,increasing,0.000898,653.2,-1274226.6,81.9
+BUSEDRA,SPM,tonnes,EGRET_FN_SPM_tonn,increasing,6e-06,215.8,-399889.5,24.8
+BUSEDRA,SPM,tonnes,EGRET_SPM_tonn,increasing,0.010149,544.4,-1064200.0,96.2
+BUSEDRA,SPM,tonnes,GAM_SPM_tonn,increasing,0.026731,439.5,-854151.5,72.8
+BUSEDRA,SPM,tonnes,OSPAR_SPM_tonn,increasing,0.006398,605.8,-1189030.6,124.6
+TELESKI,TOTN,tonnes,EGRET_FN_TOTN_tonn,decreasing,0.0,-32.1,67495.3,-30.3
+TELESKI,TOTN,tonnes,EGRET_TOTN_tonn,no trend,0.232806,-12.0,27174.0,-12.4
+TELESKI,TOTN,tonnes,GAM_TOTN_tonn,no trend,0.111709,-15.4,33934.0,-15.6
+TELESKI,TOTN,tonnes,OSPAR_TOTN_tonn,no trend,0.155566,-11.6,26086.3,-13.6
+TELESKI,NO3-N,tonnes,EGRET_FN_NO3-N_tonn,decreasing,0.0,-44.4,90840.6,-59.5
+TELESKI,NO3-N,tonnes,EGRET_NO3-N_tonn,decreasing,8e-06,-27.8,57520.0,-42.1
+TELESKI,NO3-N,tonnes,GAM_NO3-N_tonn,decreasing,0.0,-33.3,68709.7,-48.1
+TELESKI,NO3-N,tonnes,OSPAR_NO3-N_tonn,decreasing,6e-06,-26.1,53884.2,-44.6
+TELESKI,TOTP,tonnes,EGRET_FN_TOTP_tonn,no trend,0.169313,0.1,-186.3,9.2
+TELESKI,TOTP,tonnes,EGRET_TOTP_tonn,increasing,0.003434,0.5,-894.1,45.9
+TELESKI,TOTP,tonnes,GAM_TOTP_tonn,increasing,0.030842,0.4,-762.0,40.1
+TELESKI,TOTP,tonnes,OSPAR_TOTP_tonn,no trend,0.068409,0.3,-542.2,32.7
+TELESKI,PO4-P,tonnes,EGRET_FN_PO4-P_tonn,increasing,0.001382,0.2,-351.5,46.6
+TELESKI,PO4-P,tonnes,EGRET_PO4-P_tonn,increasing,0.00065,0.3,-538.2,78.3
+TELESKI,PO4-P,tonnes,GAM_PO4-P_tonn,increasing,0.004122,0.3,-638.2,103.1
+TELESKI,PO4-P,tonnes,OSPAR_PO4-P_tonn,increasing,0.010134,0.2,-461.0,85.7
+TELESKI,TOC,tonnes,EGRET_FN_TOC_tonn,increasing,0.0,166.7,-306850.0,15.8
+TELESKI,TOC,tonnes,EGRET_TOC_tonn,increasing,0.024561,250.0,-473925.0,24.2
+TELESKI,TOC,tonnes,GAM_TOC_tonn,increasing,0.047285,227.6,-429260.6,22.2
+TELESKI,TOC,tonnes,OSPAR_TOC_tonn,no trend,0.186004,193.1,-362749.5,20.8
+TELESKI,SPM,tonnes,EGRET_FN_SPM_tonn,no trend,0.053386,-63.3,139020.0,-16.6
+TELESKI,SPM,tonnes,EGRET_SPM_tonn,increasing,0.01704,127.1,-244395.7,50.2
+TELESKI,SPM,tonnes,GAM_SPM_tonn,no trend,0.060849,112.3,-214753.1,44.2
+TELESKI,SPM,tonnes,OSPAR_SPM_tonn,no trend,0.118251,128.7,-248535.6,58.2
+VESENUM,TOTN,tonnes,EGRET_FN_TOTN_tonn,no trend,0.97727,0.0,1920.0,0.0
+VESENUM,TOTN,tonnes,EGRET_TOTN_tonn,increasing,0.046745,13.5,-25253.5,27.5
+VESENUM,TOTN,tonnes,GAM_TOTN_tonn,increasing,0.021412,15.3,-28807.9,32.6
+VESENUM,TOTN,tonnes,OSPAR_TOTN_tonn,increasing,0.006398,13.3,-24997.2,30.2
+VESENUM,NO3-N,tonnes,EGRET_FN_NO3-N_tonn,decreasing,0.0,-5.0,10966.8,-15.2
+VESENUM,NO3-N,tonnes,EGRET_NO3-N_tonn,no trend,0.560353,2.2,-3313.8,7.5
+VESENUM,NO3-N,tonnes,GAM_NO3-N_tonn,no trend,0.201204,4.6,-8250.0,17.3
+VESENUM,NO3-N,tonnes,OSPAR_NO3-N_tonn,no trend,0.181898,4.6,-8408.6,20.0
+VESENUM,TOTP,tonnes,EGRET_FN_TOTP_tonn,increasing,0.000125,0.3,-638.2,22.3
+VESENUM,TOTP,tonnes,EGRET_TOTP_tonn,increasing,0.006331,0.8,-1523.0,65.8
+VESENUM,TOTP,tonnes,GAM_TOTP_tonn,increasing,0.014501,0.7,-1360.6,57.8
+VESENUM,TOTP,tonnes,OSPAR_TOTP_tonn,increasing,0.003631,0.8,-1599.4,96.8
+VESENUM,PO4-P,tonnes,EGRET_FN_PO4-P_tonn,increasing,2e-05,0.6,-1134.2,98.4
+VESENUM,PO4-P,tonnes,EGRET_PO4-P_tonn,increasing,0.000158,0.7,-1357.5,150.7
+VESENUM,PO4-P,tonnes,GAM_PO4-P_tonn,increasing,0.000404,0.5,-1049.9,104.3
+VESENUM,PO4-P,tonnes,OSPAR_PO4-P_tonn,increasing,0.000477,0.6,-1227.1,190.2
+VESENUM,TOC,tonnes,EGRET_FN_TOC_tonn,increasing,0.0,130.8,-243692.3,18.5
+VESENUM,TOC,tonnes,EGRET_TOC_tonn,no trend,0.186004,210.0,-402070.0,29.6
+VESENUM,TOC,tonnes,GAM_TOC_tonn,no trend,0.122853,204.7,-391743.0,29.3
+VESENUM,TOC,tonnes,OSPAR_TOC_tonn,no trend,0.233951,142.9,-269100.4,21.6
+VESENUM,SPM,tonnes,EGRET_FN_SPM_tonn,no trend,0.058622,125.0,-215775.0,12.9
+VESENUM,SPM,tonnes,EGRET_SPM_tonn,no trend,0.064865,410.0,-791270.0,56.6
+VESENUM,SPM,tonnes,GAM_SPM_tonn,increasing,0.023073,448.3,-869613.7,67.5
+VESENUM,SPM,tonnes,OSPAR_SPM_tonn,increasing,0.019857,430.0,-838540.7,85.5
+ØSTEGLO,TOTN,tonnes,EGRET_FN_TOTN_tonn,decreasing,1e-06,-44.4,105700.0,-8.8
+ØSTEGLO,TOTN,tonnes,EGRET_TOTN_tonn,increasing,0.024717,86.7,-157540.0,19.7
+ØSTEGLO,TOTN,tonnes,GAM_TOTN_tonn,no trend,0.083171,74.4,-132869.5,16.6
+ØSTEGLO,TOTN,tonnes,OSPAR_TOTN_tonn,increasing,0.003138,103.9,-195311.3,30.9
+ØSTEGLO,NO3-N,tonnes,EGRET_FN_NO3-N_tonn,decreasing,4e-06,-30.6,71760.6,-9.6
+ØSTEGLO,NO3-N,tonnes,EGRET_NO3-N_tonn,no trend,0.071268,40.0,-69950.0,14.1
+ØSTEGLO,NO3-N,tonnes,GAM_NO3-N_tonn,no trend,0.078242,41.4,-72487.8,14.2
+ØSTEGLO,NO3-N,tonnes,OSPAR_NO3-N_tonn,increasing,0.006398,55.7,-103171.8,24.9
+ØSTEGLO,TOTP,tonnes,EGRET_FN_TOTP_tonn,decreasing,0.0,-3.8,8161.1,-21.6
+ØSTEGLO,TOTP,tonnes,EGRET_TOTP_tonn,no trend,0.432108,1.7,-2936.4,12.3
+ØSTEGLO,TOTP,tonnes,GAM_TOTP_tonn,no trend,0.260944,2.7,-4937.7,21.1
+ØSTEGLO,TOTP,tonnes,OSPAR_TOTP_tonn,no trend,0.198948,2.8,-5139.4,24.1
+ØSTEGLO,PO4-P,tonnes,EGRET_FN_PO4-P_tonn,increasing,0.003439,2.8,-5273.2,46.9
+ØSTEGLO,PO4-P,tonnes,EGRET_PO4-P_tonn,increasing,0.000149,4.9,-9634.8,111.9
+ØSTEGLO,PO4-P,tonnes,GAM_PO4-P_tonn,increasing,3.4e-05,6.3,-12320.0,171.3
+ØSTEGLO,PO4-P,tonnes,OSPAR_PO4-P_tonn,increasing,0.006398,4.1,-8001.2,101.6
+ØSTEGLO,TOC,tonnes,EGRET_FN_TOC_tonn,no trend,0.052658,-111.1,346055.6,-3.0
+ØSTEGLO,TOC,tonnes,EGRET_TOC_tonn,increasing,0.009471,1020.0,-1927050.0,33.8
+ØSTEGLO,TOC,tonnes,GAM_TOC_tonn,no trend,0.061779,851.2,-1585753.8,26.8
+ØSTEGLO,TOC,tonnes,OSPAR_TOC_tonn,no trend,0.061779,759.9,-1423130.3,29.0
+ØSTEGLO,SPM,tonnes,EGRET_FN_SPM_tonn,decreasing,0.023873,-1087.0,2456521.7,-12.6
+ØSTEGLO,SPM,tonnes,EGRET_SPM_tonn,no trend,0.088349,1894.7,-3537736.8,27.7
+ØSTEGLO,SPM,tonnes,GAM_SPM_tonn,no trend,0.099483,2629.1,-5018866.0,42.0
+ØSTEGLO,SPM,tonnes,OSPAR_SPM_tonn,no trend,0.255909,1623.0,-3016856.4,25.9
