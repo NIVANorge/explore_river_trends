@@ -234,6 +234,15 @@ def plot_fluxes(
         #     fontsize=8,
         # )
 
+        if ax.get_visible():
+            ax.set_xticks(
+                np.arange(
+                    (df.index.min() // 5) * 5,
+                    df.index.max() + 1,
+                    5,
+                )
+            )
+
     plt.tight_layout()
 
     return fig

@@ -22,7 +22,11 @@ The application combines:
 - **Water chemistry data** collected through the [Elveovervåkingsprogrammet](https://www.miljodirektoratet.no/ansvarsomrader/overvaking-arealplanlegging/miljoovervaking/overvakingsprogrammer/forurensning-og-klimagasser/elveovervakningsprogrammet/)
 - **River discharge data** provided by [NVE](https://www.nve.no/)
 
-All analyses are based on monitoring conducted between **1990 and 2024**. Sampling strategies, laboratory methods, and analytical procedures have remained broadly consistent throughout this period, making these datasets particularly valuable for assessing long-term environmental change.
+All analyses are based on monitoring data collected between **1990 and 2024**. For nitrogen, sampling strategies, laboratory methods, and analytical procedures have remained broadly consistent throughout this period, making these datasets particularly well suited for assessing long-term environmental change.
+
+For phosphorus, changes in laboratories, analytical methods, and detection limits prior to 2004 introduced clear step changes in the data. To ensure comparability over time, phosphorus loads are therefore presented only for the period **2004 to 2024**.
+
+There are also known issues with the TOC datasets for **Skienselva** and **Numedalslågen** prior to 1999. Consequently, TOC analyses for these rivers are restricted to the period **1999 to 2024**.
 
 Results are presented for four major rivers:
 
@@ -35,12 +39,12 @@ The monitoring stations represent most, but not all, inputs to the Oslofjord. Di
 
 The following parameters are available:
 
-- **Total Nitrogen** (`TOTN`)
-- **Nitrate Nitrogen** (`NO3-N`)
-- **Total Phosphorus** (`TOTP`)
-- **Phosphate Phosphorus** (`PO4-P`), analysed on **unfiltered** samples within the monitoring programme. This fraction is commonly referred to as **Total Reactive Phosphorus (TRP)**.
-- **Total Organic Carbon** (`TOC`)
-- **Suspended Particulate Material** (`SPM`)
+- **Total Nitrogen** (`TOTN`) from 1990 to 2024.
+- **Nitrate Nitrogen** (`NO3-N`) from 1990 to 2024.
+- **Total Phosphorus** (`TOTP`) from 2004 to 2024.
+- **Phosphate Phosphorus** (`PO4-P`) from 2004 to 2024. Note that, within Elveovervåkingsprogrammet, phosphate is analysed on **unfiltered** samples. This fraction is commonly referred to as **Total Reactive Phosphorus (TRP)**.
+- **Total Organic Carbon** (`TOC`) from 1990 to 2024 for Glomma and Drammenselva; 1999 to 2024 for Skienselva and Numedalslågen.
+- **Suspended Particulate Material** (`SPM`) from 1990 to 2024.
 
 ## Estimating annual loads
 
