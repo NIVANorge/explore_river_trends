@@ -13,11 +13,4 @@ COPY README.md ./README.md
 
 EXPOSE 8501
 
-CMD [
-    "streamlit",
-    "run",
-    "app/Home.py",
-    "--server.port=8501",
-    "--server.address=0.0.0.0",
-    "--browser.gatherUsageStats=false"
-]
+CMD ["streamlit", "run", "app/Home.py", "--server.port=8501", "--server.address=0.0.0.0", "--browser.gatherUsageStats=false"]

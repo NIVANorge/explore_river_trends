@@ -4,8 +4,6 @@ Streamlit app for exploring **monitored trends in nutrient loads for rivers drai
 
 ## Running the Streamlit app
 
-The app is designed to help with sense-checking the scenarios. It is not very refined!
-
 ### Option 1: From JupyterHub
 
  1. Open a terminal on the JupyterHub and `cd` into the `explore_river_trends` directory
