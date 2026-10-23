@@ -22,5 +22,5 @@ Streamlit app for exploring **monitored trends in nutrient loads for rivers drai
 
  ## Deployed Streamlit App
 
-The app is deployed publicly on XXXX.
+The app is deployed publicly at https://explore-river-trends.p.niva.no/.
  
