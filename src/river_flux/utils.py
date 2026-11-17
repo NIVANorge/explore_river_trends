@@ -128,14 +128,6 @@ def prepare_model_inputs(
 
     # Daily flow file
     daily = flow_df.reset_index().rename(columns={"flow_m3/s": "Q"})
-    q_offset = daily.loc[
-        daily["Q"] > 0,
-        "Q",
-    ].min()
-
-    print(f"Adding flow offset of " f"{q_offset:.6f} m3/s " f"to avoid zero flows.")
-
-    daily["Q"] += q_offset
     daily["date"] = daily["date"].dt.strftime("%Y-%m-%d")
     daily = daily[
         [
