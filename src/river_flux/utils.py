@@ -94,7 +94,7 @@ def prepare_model_inputs(
     except ValueError:
 
         raise ValueError(
-            f"Parameter must be in format " f"'NAME_units'. Got '{parameter}'."
+            f"Parameter must be in format 'NAME_units'. Got '{parameter}'."
         )
 
     # Restrict chemistry data to flow record period
